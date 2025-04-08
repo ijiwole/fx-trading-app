@@ -1,0 +1,6 @@
+.qodo
+/node_modules
+.vscode
+.DS_Store
+/.idea
+config.bat
